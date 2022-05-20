@@ -6,4 +6,4 @@ My job is to derive insights from this data to achieve these goals. Within the e
 
 I also included an interactive Dashboard to show more specific relevant data per car model selected. 
 
-Finally, my project includes a set of clear and precise slides that I can use as my visual if I need to present my findings in front of clients or stakeholders 
+Finally, my project includes a set of clear and precise slides that I can use as my visual when I present my findings in front of clients or stakeholders. 
