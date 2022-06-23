@@ -9,7 +9,7 @@ minimize costs and maximize revenue.
 
 If this were an actual project for a company, I would be sure to ask clarifying questions with management to ensure we are all on the same page as far as expectations. I would be sure to understand deadlines and to confirm the limits of the project. Last, I would make sure who to reach out to if I find any problems in the datasets that would not allow for me to conduct an accurate analysis. 
 
-As I only have information on this one business objective of minimizing cost and maximizing revenue, I followed my process of compiling all the data into one spreadsheet. I then ensured my data is valid, relevant, and without any missing items or formatting mistakes. After reviewing over the cleaned datasets I derived 3 strategies to help the rental car company reach there business objective
+As I only have information on this one business objective of minimizing cost and maximizing revenue, I followed my process of compiling all the data into one spreadsheet. I then ensured my data is valid, relevant, and without any missing items or formatting mistakes. After reviewing over the cleaned datasets, I derived 3 strategies to help the rental car company reach there business objective
 
 My final reports consisted of:
 
@@ -29,6 +29,6 @@ Analysis: using knowledge of advanced excel techniques including formulas, pivot
 
 Interactive Dashboard: built an operational dashboard where users can select certain car models to see relevant data points. This dashboard would stay operational even if new sales data were constantly coming in and updating. I added protection measures to the dashboard prevent any mistakes from the end user that would cause the dashboard to not operate as expected. 
 
-Creative Solutions: Beyond the technical abilities to operate Excel and other analytic tools, Data Analyst will use a creative side combined with knowledge of business to derive insights from data. I believe I have achieved this with my project. 
+Creative Solutions: Beyond the technical abilities to operate Excel and other analytic tools, Data Analysts will use a creative side combined with knowledge of business to derive insights from data. I believe I have achieved this with my project. 
 
-Visualization: The excel model shows various charts and graphs that help plot out interesting findings with the data. The charts help easily see key information derived from the data. These charts were included in my slide deck. 
+Visualization: The excel model shows various charts and graphs that help plot out interesting findings with the data. These charts help easily see key information derived from the data. These charts were included in my slide deck. 
