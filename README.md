@@ -9,7 +9,7 @@ minimize costs and maximize revenue.
 
 If this were an actual project for a company, I would be sure to ask clarifying questions with management to ensure we are all on the same page as far as expectations. I would be sure to understand deadlines and to confirm the limits of the project. Last, I would make sure who to reach out to if I find any problems in the datasets that would not allow for me to conduct an accurate analysis. 
 
-As I only have information on this one business objective of minimizing cost and maximizing revenue, I followed my process of compiling all the data into one spreadsheet. I then ensured my data is valid, relevant, and without any missing items or formatting mistakes. After reviewing over the cleaned datasets, I derived 3 strategies to help the rental car company reach there business objective
+As I only have information on this one business objective of minimizing cost and maximizing revenue, I followed my process of compiling all the data into one spreadsheet. I then ensured my data is valid, relevant, and without any missing items or formatting mistakes. After reviewing the cleaned datasets, I derived 3 strategies to help the rental car company reach there business objective
 
 My final reports consisted of:
 
