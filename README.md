@@ -32,3 +32,7 @@ Interactive Dashboard: built an operational dashboard where users can select cer
 Creative Solutions: Beyond the technical abilities to operate Excel and other analytic tools, Data Analysts will use a creative side combined with knowledge of business to derive insights from data. I believe I have achieved this with my project. 
 
 Visualization: The excel model shows various charts and graphs that help plot out interesting findings with the data. These charts help easily see key information derived from the data. These charts were included in my slide deck. 
+
+Thank you,
+
+Jason
